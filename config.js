@@ -45,33 +45,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/leonvx._'
-global.sgh = 'https://bl4ck-lion.github.io/index.php'
-global.sgc = 'https://chat.whatsapp.com/HHjPtKIjkzb1ud0QtrkbQH'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://youtube.com/c/LeonGanz/'
+global.sig = 'https://www.instagram.com/jonkristiansah.silaban'
+global.sgh = 'https://https://www.facebook.com/jonkristian.silaban'
+global.sgc = 'https://https://chat.whatsapp.com/E9f5AahDDYmJsCVAa3efN4'
+global.sdc = 'https://silabancris949@gmail.com'
+global.snh = 'https://https://www.facebook.com/jonkristian.silaban'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085608625102'
-global.povo = '085608625102'
-global.pgopay = '085608625102'
-global.ppulsa = '085608625102'
-global.ppulsa2 = '085608625102'
-global.psaweria = 'https://saweria.com/LeonGanz'
+global.pdana = '089509158681'
+global.povo = '089509158681'
+global.pgopay = '089509158681'
+global.ppulsa = '089509158681'
+global.ppulsa2 = '089509158681'
+global.psaweria = 'https://chat.whatsapp.com/E9f5AahDDYmJsCVAa3efN4'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895410472842'
-global.nomorown = '6285608625102'
-global.namebot = 'Yui - Chan'
-global.nameown = 'Rama -Agung'
+global.nomorbot = '6289509158681'
+global.namebot = 'Jonkris -Silaban'
+global.nameown = 'Sipuce -Team'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285608625102', 'Rama Agung', true],
-  ['6282351319893', 'Muhimmah Putri', true],
-  ['6283847909854', 'Zaky Rashif', true],
-  ['6287877173955', 'Ferdiz-Afk', true] //Ganti jd nomormu sama Namamu
+  ['6289509158681', 'Jon Gaming', true],
+  ['62882017628715', 'No Name', true],
+  ['6281262626102', 'No Name', true],
+  ['6281262380751', 'No Name', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
