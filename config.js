@@ -68,7 +68,7 @@ global.nameown = 'Sipuce -Team'
 /*============== STAFF ==============*/
 global.owner = [
   ['6289509158681', 'Jon Gaming', true],
-  ['62882017628715', 'No Name', true],
+  ['6282017628715', 'No Name', true],
   ['6281262626102', 'No Name', true],
   ['6281262380751', 'No Name', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
