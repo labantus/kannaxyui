@@ -61,6 +61,7 @@ global.psaweria = 'https://chat.whatsapp.com/E9f5AahDDYmJsCVAa3efN4'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6289509158681'
+global.nomorbot = '380942412294'
 global.namebot = 'Jonkris -Silaban'
 global.nameown = 'Sipuce -Team'
 
